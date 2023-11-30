@@ -1,50 +1,81 @@
 # Code of Conduct
 
-## 1. Respect and Inclusion
-- Treat all individuals with respect, regardless of their race, gender, sexual orientation, religion, disability, or any other characteristic.
-- Foster an inclusive, diverse and healthy environment where everyone feels welcome and valued.
-- Avoid discriminatory or offensive language or behavior.
+## Our Pledge
 
-## 2. Communication
-- Conduct yourself in a professional manner during all interactions within the tech community.
-- Maintain a high standard of integrity and honesty and respect the ideas, opinions, and contributions of others.
-- Encourage collaboration and cooperation among members of the tech community.
-- Support and help others in their learning and professional development.
-- Listen actively and attentively to others.
-- Avoid personal attacks, insults, or harassment in any form.
-- Demonstrate empathy and kindness toward other people.
-- Be respectful of differing opinions, viewpoints, and experiences.
-- Give and gracefully accept constructive feedback.
-- Accept responsibility and apologize to those affected by our mistakes and learn from the experience.
+We as members, contributors, and leaders pledge to make participation in our
+community a harassment-free experience for everyone, regardless of age, body
+size, visible or invisible disability, ethnicity, sex characteristics, gender
+identity and expression, level of experience, education, socio-economic status,
+nationality, personal appearance, race, religion, or sexual identity
+and orientation.
 
-## 3. Privacy and Security
-- Respect the privacy and confidentiality of others' personal and sensitive information.
-- Protect the security and integrity of systems, data, and resources.
-- Do not engage in unauthorized access, use, or distribution of others' information.
+We pledge to act and interact in ways that contribute to an open, welcoming,
+diverse, inclusive, and healthy community.
 
-## 4. Academic Honesty
-- Uphold academic integrity and honesty in all academic as well as community related activities.
-- Avoid plagiarism, cheating, or any form of dishonesty in activities, projects, and events.
+## Our Standards
 
-## 5. Harassment and Discrimination
-- Zero tolerance for any form of harassment, including but not limited to, verbal, written, or physical abuse.
-- Report any incidents of harassment or discrimination to the appropriate authorities or responsible individuals.
-- Avoid the use of sexualized language or imagery, and sexual attention or advances of any kind.
-- Refrain from trolling, insulting or derogatory comments, and personal or political attacks.
-- Do not publish others' private information, such as a physical or email address, without their explicit permission.
-- Refrain from engaging in any conduct that could reasonably be considered inappropriate in a professional setting.
+Examples of behavior that contributes to a positive environment for our
+community include:
 
-## 6. Event Guidelines
-- Follow the guidelines and rules established for specific tech community events, workshops, or conferences.
-- Be respectful towards organizers, speakers, and fellow attendees.
-- Engage in meaningful and constructive discussions during events.
+- Demonstrating empathy and kindness toward other people
+- Being respectful of differing opinions, viewpoints, and experiences
+- Giving and gracefully accepting constructive feedback
+- Accepting responsibility and apologizing to those affected by our mistakes,
+  and learning from the experience
+- Focusing on what is best not just for us as individuals, but for the
+  overall community
 
-## 7. Compliance and Consequences
-- This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces.
-- Comply with the policies, guidelines, and codes of conduct established by the community.
-- Failure to comply with this Code of Conduct may result in disciplinary actions, which may include warnings, temporary or permanent bans, or other appropriate measures.
-- Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at [csss.uofr@gmail.com](mailto:csss.uofr@gmail.com).
-- All complaints will be reviewed and investigated promptly and fairly.
-- All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+Examples of unacceptable behavior include:
 
-By following this Code of Conduct, we can cultivate a supportive and inclusive environment within the CSSS community at the University of Regina. It is the responsibility of every member to uphold these guidelines and contribute to a positive and enriching experience for all.
+- The use of sexualized language or imagery, and sexual attention or
+  advances of any kind
+- Trolling, insulting or derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others' private information, such as a physical or email
+  address, without their explicit permission
+- Other conduct which could reasonably be considered inappropriate in a
+  professional setting
+
+## Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of
+acceptable behavior and will take appropriate and fair corrective action in
+response to any behavior that they deem inappropriate, threatening, offensive,
+or harmful.
+
+Community leaders have the right and responsibility to remove, edit, or reject
+comments, commits, code, wiki edits, issues, and other contributions that are
+not aligned to this Code of Conduct, and will communicate reasons for moderation
+decisions when appropriate.
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
+reported to the community leaders responsible for enforcement at
+[csss.uofr@gmail.com](mailto:csss.uofr@gmail.com).
+All complaints will be reviewed and investigated promptly and fairly.
+
+All community leaders are obligated to respect the privacy and security of the
+reporter of any incident.
+
+## Scope
+
+This Code of Conduct applies within all community spaces, and also applies when
+an individual is officially representing the community in public spaces.
+Examples of representing our community include using an official e-mail address,
+posting via an official social media account, or acting as an appointed
+representative at an online or offline event.
+
+
+## Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant][homepage],
+version 2.0, available at
+https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct
+enforcement ladder](https://github.com/mozilla/diversity).
+
+[homepage]: https://www.contributor-covenant.org
+
+For answers to common questions about this code of conduct, see the FAQ at
+https://www.contributor-covenant.org/faq. Translations are available at
+https://www.contributor-covenant.org/translations.
